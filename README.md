@@ -35,7 +35,7 @@ The project demonstrates how linear regression can be used to make predictions o
 
 ## Acknowledgments
 
-Special thanks to Eng. Ahmed Madah and Kayan for their continuous guidance and support throughout this learning journey.
+Special thanks to Eng. Ahmed Madah and Kian for their continuous guidance and support throughout this learning journey.
 
 ## Connect
 
