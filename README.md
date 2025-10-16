@@ -1,6 +1,6 @@
 # California Housing Data Analysis
 
-This is my first data science project, created as part of my learning journey with Eng. Ahmed Madah at Kayan.  
+This is my first data science project, created as part of my learning journey with Eng.Ahmed Madah at Kian.  
 The goal of this project is to analyze the California Housing dataset and build a simple Linear Regression model to predict housing prices.
 
 ## Project Overview
